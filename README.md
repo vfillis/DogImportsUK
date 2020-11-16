@@ -1,6 +1,6 @@
 # DogImportsUK
 
-Here you can find the data for a story about rising dog imports into the UK. 
+Here you can find the data for a [story about rising dog imports into the UK](https://birminghameastside.com/rspca-concerned-about-rising-number-of-commercial-dog-imports/). 
 
 The data source is the [Trade Control and Expert System (TRACES)](https://webgate.ec.europa.eu/sanco/traces/). 
 
